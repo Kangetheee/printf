@@ -1,5 +1,5 @@
 # printf
 ALX c-printf project
 authors include:
-Kelvin Kariuki
+Kelvin Kariuki and
 Noah Mburu
