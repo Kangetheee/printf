@@ -1,5 +1,1 @@
-# printf
-ALX c-printf project
-authors include:
-Kelvin Kariuki and
-Noah Mburu
+Authors of this repository are Noah Mburu and Kelvin Kimani
